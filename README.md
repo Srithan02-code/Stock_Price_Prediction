@@ -19,7 +19,7 @@ Predicting stock prices is a challenging task due to market volatility and exter
 
 - The dataset is automatically retrieved using the `yfinance` Python module.  
 - **Stock Ticker**: TSLA (Tesla Inc.)  
-- Includes historical `Open`, `High`, `Low`, `Close`, `Adj Close`, and `Volume` values.  
+- Includes historical `Open`, `High`, `Low`, `Close`, and `Volume` values.  
 
 ## Model Architecture
 
