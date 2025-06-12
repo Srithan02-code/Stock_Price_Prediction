@@ -1,4 +1,4 @@
-# Stock_Price_Prediction# 
+# Stock_Price_Prediction
 
 This project aims to predict stock prices using historical data with a deep learning model — **Long Short-Term Memory (LSTM)** networks. It showcases how LSTM can be applied to time-series financial data for forecasting purposes.
 
